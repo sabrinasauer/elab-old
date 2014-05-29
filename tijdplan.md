@@ -32,7 +32,7 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
   + Pilot Coding the Humanities (CtH)
   + project-ruimte voor CtH
   + Plenaire bijeenkomst: wat is er gedaan en wat gaat er straks gebeuren?
-  + doorlopend onderzoek naar samenwerking eindgebruikers/partners/coding CtH
+  + Doorlopend onderzoek naar samenwerking eindgebruikers/partners/coding CtH
 + Juli/ Augustus 2014:
   + Evaluatie pilot CtH
   + Ontwikkeling digitaal samenwerkingsplatform CtH. Let op! Dit is dus niet de website. Hiervoor is reeds een apart plan opgesteld. (zie bijlage)
