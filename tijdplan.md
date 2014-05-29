@@ -13,7 +13,7 @@ Bij het plannen van het e-lab moeten we rekening houden met verschillende aspect
   + training en technische ondersteuning voornamelijk via platform
 3. Onderwijs  
   + DH minor start najaar 2014
-  + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georienteerd)
+  + Aansluiting met onderzoek: platform en fysiek lab verenigen beide (minor is project-georiënteerd)
 4. Fysieke ruimte:
   + Inrichting flexibele/ projectmatige ruimtes m.n. gericht op embedded researchers
   + In de buurt van CREATE
