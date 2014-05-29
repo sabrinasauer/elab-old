@@ -24,7 +24,7 @@ Het is echter ook hier belangrijk te benadrukken dat een conventie niet hetzelfd
 
 Uit de elab verkenning van afgelopen zomer blijkt een brede vraag onder medewerkers naar meer en betere support. Wij zien dit echter eerder als symptoom dan als medicijn. Het onderliggende probleem is onvoldoende kennis, ervaring en vaardigheden op het gebied van digitale methoden en tools. In plaats van grote investeringen in een onbevredigbare behoefte aan support, zouden de beperkte middelen primair voor (bij)scholing ingezet moeten worden. 
 
-Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van ondersteuning. Deze training moet verder gaan dan bijscholing op het gebied van kant en klare applicaties. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen. 
+Gedegen training van studenten en medewerkers is op de lange termijn een veel efficientere en effectieve investering dan het voortdurend uitbreiden van ondersteuning. Deze training moet verder gaan dan bijscholing op het gebied van kant en klare applicaties. In onze toekomstvisie leren studenten, docenten en onderzoekers hun eigen tools te ontwikkelen; hierdoor vindt niet alleen een "skilling" plaats, maar krijgen studenten, docenten en onderzoekers ook de mogelijkheid zelf vorm te geven aan nieuwe tools en daaruit voortvloeiend, de kans om onderzoek op een nieuwe manier in te vullen. 
 
 
 ### Collaboration over Ownership
